@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/pexels-clickerhappy-699624.jpg);
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-attachment: fixed;
+    filter: ;
+    -webkit-filter:;
+}
+.section-2{
+    background-image: url(/images/pexels-david-kanigan-239927285-28991452.jpg);
+}
+.section-3{
+    background-image: url(../images/pexels-thatguycraig000-1563356.jpg);
+}
+.section-4{
+    background-image: url(../images/pexels-thepaintedsquare-14589773.jpg);
+}
+h1, p{
+    font-size: 3.0rem;
+    color: white;
+}
+h1{
+    text-shadow: .5rem .5rem .5rem black;
+}
+
